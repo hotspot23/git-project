@@ -1,0 +1,1 @@
+# how to run my project with ubntu
